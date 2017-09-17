@@ -1,5 +1,5 @@
 function shout() {
-  return 'hello';
+  return 'HELLO';
 }
 function whisper() {
 
