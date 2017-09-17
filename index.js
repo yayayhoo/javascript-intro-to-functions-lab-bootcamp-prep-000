@@ -1,6 +1,6 @@
 function shout() {
-  
+
 }
 function whisper() {
-  
+
 }
