@@ -1,0 +1,6 @@
+function shout() {
+  
+}
+function whisper() {
+  
+}
